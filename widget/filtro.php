@@ -53,16 +53,16 @@
                         <div class="row">
                             <article class="col-12 col-md-12 col-lg-6">
                                 <div class="card main_properties_item">
-                                    <a href="">
+                                    <a href="/?app=property">
                                         <img class="card-img-top" src="properties/1/5a3571ab-4d76-466f-8246-eff8cb98cedd.jpg" alt="">
                                     </a>
                                     <div class="card-body">
-                                        <h2><a href="" class="text-front">Linda Casa no Campeche com vista para o Mar</a></h2>
+                                        <h2><a href="/?app=property" class="text-front">Linda Casa no Campeche com vista para o Mar</a></h2>
                                         <p class="main_properties_item_category">Imóvel Residencial</p>
                                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                                         </p>
                                         <p class="main_properties_item_price text-front">R$ 400.000,00</p>
-                                        <a href="" class="btn btn-front btn-block">Ver Imóvel</a>
+                                        <a href="/?app=property" class="btn btn-front btn-block">Ver Imóvel</a>
                                     </div>
                                     <div class="card-footer d-flex text-muted">
                                         <div class="col-4 main_properties_item_features text-center">
@@ -83,16 +83,16 @@
 
                             <article class="col-12 col-md-12 col-lg-6">
                                 <div class="card main_properties_item">
-                                    <a href="">
+                                    <a href="/?app=property">
                                         <img class="card-img-top" src="properties/1/6abf463b-67a0-4fee-847e-42537699ad8e.jpg" alt="">
                                     </a>
                                     <div class="card-body">
-                                        <h2><a href="" class="text-front">Linda Casa no Campeche com vista para o Mar</a></h2>
+                                        <h2><a href="/?app=property" class="text-front">Linda Casa no Campeche com vista para o Mar</a></h2>
                                         <p class="main_properties_item_category">Imóvel Residencial</p>
                                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                                         </p>
                                         <p class="main_properties_item_price text-front">R$ 400.000,00</p>
-                                        <a href="" class="btn btn-front btn-block">Ver Imóvel</a>
+                                        <a href="/?app=property" class="btn btn-front btn-block">Ver Imóvel</a>
                                     </div>
                                     <div class="card-footer d-flex text-muted">
                                         <div class="col-4 main_properties_item_features text-center">
@@ -113,16 +113,16 @@
 
                             <article class="col-12 col-md-12 col-lg-6">
                                 <div class="card main_properties_item">
-                                    <a href="">
+                                    <a href="/?app=property">
                                         <img class="card-img-top" src="properties/1/8f317473-e7b0-4c6e-8198-2ebe44a21f11.jpg" alt="">
                                     </a>
                                     <div class="card-body">
-                                        <h2><a href="" class="text-front">Linda Casa no Campeche com vista para o Mar</a></h2>
+                                        <h2><a href="/?app=property" class="text-front">Linda Casa no Campeche com vista para o Mar</a></h2>
                                         <p class="main_properties_item_category">Imóvel Residencial</p>
                                         <p class="main_properties_item_type">Apartamento - Campeche <i class="icon-location-arrow"></i>
                                         </p>
                                         <p class="main_properties_item_price text-front">R$ 400.000,00</p>
-                                        <a href="" class="btn btn-front btn-block">Ver Imóvel</a>
+                                        <a href="?app=property" class="btn btn-front btn-block">Ver Imóvel</a>
                                     </div>
                                     <div class="card-footer d-flex text-muted">
                                         <div class="col-4 main_properties_item_features text-center">

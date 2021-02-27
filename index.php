@@ -53,11 +53,11 @@
 
             <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/?app=home">Home</a></li>
                     <li class="nav-item"><a class="nav-link text-front" href="#">Destaque</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Alugar</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Comprar</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Contato</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/?app=filtro">Alugar</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/?app=filtro">Comprar</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/?app=contato">Contato</a></li>
                 </ul>
             </div>
         </div>
@@ -97,11 +97,11 @@ if(empty($getApp)){
             <div class="col-12 col-md-3 col-lg-3">
                 <h1 class="pb-2">Navegue <span class="text-front">Aqui!</span></h1>
                 <ul>
-                    <li><a href="">Home</a></li>
+                    <li><a href="/?app=home">Home</a></li>
                     <li><a href="" class="text-front">Destaque</a></li>
-                    <li><a href="">Alugar</a></li>
-                    <li><a href="">Comprar</a></li>
-                    <li><a href="">Contato</a></li>
+                    <li><a href="/?app=filtro">Alugar</a></li>
+                    <li><a href="/?app=filtro">Comprar</a></li>
+                    <li><a href="/?app=contato">Contato</a></li>
                 </ul>
             </div>
             <div class="col-12 col-md-9 col-lg-6">
